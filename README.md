@@ -17,6 +17,7 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#9002](https://github.com/apollographql/apollo-client/issues/9002) in [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
