@@ -1,0 +1,33 @@
+{
+	"name": "@notekunn/about-me",
+	"version": "1.0.4",
+	"description": "[![Actions Status](https://github.com/Notekunn/Notekunn/workflows/wakatime-stats/badge.svg)](https://github.com/Notekunn/Notekunn/actions) [![Actions Status](https://github.com/Notekunn/Notekunn/workflows/update-gh-activity/badge.svg)](https://github.com/Notekunn/Notekunn/actions) ![](https://visitor-badge.glitch.me/badge?page_id=notekunn.notekunn)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Notekunn/Notekunn.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Notekunn/Notekunn/issues"
+	},
+	"homepage": "https://github.com/Notekunn/Notekunn#readme",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"boxen": "^5.0.0",
+		"chalk": "^4.1.0",
+		"clear": "^0.1.0",
+		"cli-spinners": "^2.5.0",
+		"configstore": "^5.0.1",
+		"inquirer": "^8.0.0",
+		"ora": "^5.3.0",
+		"simple-git": "^2.35.2"
+	},
+	"bin": {
+		"notekunn": "./cli.js"
+	}
+}
