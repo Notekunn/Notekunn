@@ -17,8 +17,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/VNBot-Developers/kma-schedule-discord-bot/pull/7) in [VNBot-Developers/kma-schedule-discord-bot](https://github.com/VNBot-Developers/kma-schedule-discord-bot)
-2. ❗️ Closed issue [#9002](https://github.com/apollographql/apollo-client/issues/9002) in [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
+1. 🎉 Merged PR [#65](https://github.com/Notekunn/kma-news/pull/65) in [Notekunn/kma-news](https://github.com/Notekunn/kma-news)
+2. 💪 Opened PR [#65](https://github.com/Notekunn/kma-news/pull/65) in [Notekunn/kma-news](https://github.com/Notekunn/kma-news)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
