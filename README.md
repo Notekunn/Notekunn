@@ -17,8 +17,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Notekunn/kma-schedule-api/pull/2) in [Notekunn/kma-schedule-api](https://github.com/Notekunn/kma-schedule-api)
-2. 💪 Opened PR [#2](https://github.com/Notekunn/kma-schedule-api/pull/2) in [Notekunn/kma-schedule-api](https://github.com/Notekunn/kma-schedule-api)
+1. 🎉 Merged PR [#3](https://github.com/Notekunn/kma-schedule-api/pull/3) in [Notekunn/kma-schedule-api](https://github.com/Notekunn/kma-schedule-api)
+2. 💪 Opened PR [#3](https://github.com/Notekunn/kma-schedule-api/pull/3) in [Notekunn/kma-schedule-api](https://github.com/Notekunn/kma-schedule-api)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
