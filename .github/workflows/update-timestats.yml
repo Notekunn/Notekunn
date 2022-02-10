@@ -19,6 +19,5 @@ jobs:
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: ":zap: Update wakatime activity"
           SHOW_LOC_CHART: "False"
-          LOCALE: "vn"
           SHOW_LINES_OF_CODE: "True"
           
