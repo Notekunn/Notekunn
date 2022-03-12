@@ -17,8 +17,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/kma-academy/kma-news/pull/65) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
-2. 🎉 Merged PR [#64](https://github.com/kma-academy/kma-news/pull/64) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
+1. 🎉 Merged PR [#65](https://github.com/kma-academy/kma-news/pull/65) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
+2. 💪 Opened PR [#65](https://github.com/kma-academy/kma-news/pull/65) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
