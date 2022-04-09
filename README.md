@@ -17,8 +17,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/kma-academy/kma-news/issues/27) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
-2. 🗣 Commented on [#5974](https://github.com/nestjs/nest/issues/5974) in [nestjs/nest](https://github.com/nestjs/nest)
+1. 🎉 Merged PR [#2](https://github.com/Notekunn/parse-schedule-kma/pull/2) in [Notekunn/parse-schedule-kma](https://github.com/Notekunn/parse-schedule-kma)
+2. 🗣 Commented on [#27](https://github.com/kma-academy/kma-news/issues/27) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
