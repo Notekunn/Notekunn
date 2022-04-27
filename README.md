@@ -17,8 +17,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Notekunn/parse-schedule-kma/pull/2) in [Notekunn/parse-schedule-kma](https://github.com/Notekunn/parse-schedule-kma)
-2. 🗣 Commented on [#27](https://github.com/kma-academy/kma-news/issues/27) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
+1. 💪 Opened PR [#280](https://github.com/anmol098/waka-readme-stats/pull/280) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🎉 Merged PR [#2](https://github.com/Notekunn/parse-schedule-kma/pull/2) in [Notekunn/parse-schedule-kma](https://github.com/Notekunn/parse-schedule-kma)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
