@@ -97,6 +97,8 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 27/04/2022 12:50:09 UTC
 <!--END_SECTION:waka-->
+<!--START_SECTION:random-qoutes-->
+<!--END_SECTION:random-qoutes-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notekunn&theme=radical&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=notekunn&show_icons=true&theme=radical&count_private=true)
