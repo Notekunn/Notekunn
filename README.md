@@ -17,8 +17,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#280](https://github.com/anmol098/waka-readme-stats/pull/280) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🎉 Merged PR [#2](https://github.com/Notekunn/parse-schedule-kma/pull/2) in [Notekunn/parse-schedule-kma](https://github.com/Notekunn/parse-schedule-kma)
+1. 🗣 Commented on [#8860](https://github.com/typeorm/typeorm/issues/8860) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
+2. 💪 Opened PR [#280](https://github.com/anmol098/waka-readme-stats/pull/280) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
