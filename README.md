@@ -6,13 +6,14 @@
 
 <!--![Meme](https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif)-->
 
-![Personal npm card](https://i.imgur.com/mi8nZo1.png)
+<!--![Personal npm card](https://i.imgur.com/mi8nZo1.png)-->
 
-**Liên hệ:**
+**Contact:**
 
 - 🐋 Facebook: **[Trần Đức Cường](https://www.facebook.com/ShiinDz)**.
 - 🐍 Email: **[clonebmn2itt@gmail.com](mailto:clonebmn2itt@gmail.com)**.
 - 🐬 Github: **[Notekunn](https://github.com/Notekunn)**.
+- 🐬 Linkedin: **[Duc Cuong Tran](https://www.linkedin.com/in/notekunn/)**.
 
 **:zap: Recent Activity:**
 
