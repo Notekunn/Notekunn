@@ -18,8 +18,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8860](https://github.com/typeorm/typeorm/issues/8860) in [typeorm/typeorm](https://github.com/typeorm/typeorm)
-2. 💪 Opened PR [#280](https://github.com/anmol098/waka-readme-stats/pull/280) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🎉 Merged PR [#1](https://github.com/Notekunn/lint/pull/1) in [Notekunn/lint](https://github.com/Notekunn/lint)
+2. 💪 Opened PR [#1](https://github.com/Notekunn/lint/pull/1) in [Notekunn/lint](https://github.com/Notekunn/lint)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
