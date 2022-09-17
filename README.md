@@ -18,8 +18,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/kma-academy/kma-news/issues/66) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
-2. 🎉 Merged PR [#1](https://github.com/Notekunn/lint/pull/1) in [Notekunn/lint](https://github.com/Notekunn/lint)
+1. ❗️ Closed issue [#66](https://github.com/vnact/kma-news/issues/66) in [vnact/kma-news](https://github.com/vnact/kma-news)
+2. 🗣 Commented on [#66](https://github.com/kma-academy/kma-news/issues/66) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
