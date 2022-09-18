@@ -23,9 +23,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C169%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-340%20Thousand%20lines%20of%20code-blue)
 
@@ -70,14 +70,14 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.52% 
-Docker                   2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   30.32% 
-JSON                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+YAML                     3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   43.06% 
+Docker                   2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.18% 
+JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
 
 💻 Operating System: 
-WSL                      8 hrs 20 mins       █████████████████████████   100.0%
+WSL                      8 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2022 16:53:23 UTC
+ Last Updated on 18/09/2022 16:53:35 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:random-qoutes-->
 <!--END_SECTION:random-qoutes-->
