@@ -23,9 +23,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-340%20Thousand%20lines%20of%20code-blue)
 
@@ -33,7 +33,7 @@
 
 > 🏆 601 Contributions in the Year 2022
  > 
-> 📦 43.3 kB Used in GitHub's Storage 
+> 📦 43.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,15 +70,15 @@ Sunday       110 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               25 hrs 44 mins      █████████████████████░░░░   85.97% 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
-Other                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
-YAML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+TypeScript               21 hrs 47 mins      █████████████████████░░░░   83.95% 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.31% 
+YAML                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 💻 Operating System: 
-WSL                      29 hrs 2 mins       ████████████████████████░   96.95% 
-Windows                  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
+WSL                      25 hrs 11 mins      ████████████████████████░   97.07% 
+Windows                  45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 
 ```
 
@@ -95,7 +95,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 16:55:47 UTC
+ Last Updated on 27/09/2022 17:02:55 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:random-qoutes-->
 <!--END_SECTION:random-qoutes-->
