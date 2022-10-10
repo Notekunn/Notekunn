@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C228%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-340%20Thousand%20lines%20of%20code-blue)
 
@@ -90,7 +90,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2022 17:00:21 UTC
+ Last Updated on 10/10/2022 16:52:52 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:random-qoutes-->
 <!--END_SECTION:random-qoutes-->
