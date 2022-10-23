@@ -23,7 +23,7 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C228%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C228%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -70,10 +70,10 @@ Sunday       103 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +90,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2022 16:51:48 UTC
+ Last Updated on 23/10/2022 16:55:30 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:random-qoutes-->
 <!--END_SECTION:random-qoutes-->
