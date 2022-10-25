@@ -10,7 +10,6 @@
 
 **Contact:**
 
-- 🐋 Facebook: **[Trần Đức Cường](https://www.facebook.com/ShiinDz)**.
 - 🐍 Email: **[clonebmn2itt@gmail.com](mailto:clonebmn2itt@gmail.com)**.
 - 🐬 Github: **[Notekunn](https://github.com/Notekunn)**.
 - 🐬 Linkedin: **[Duc Cuong Tran](https://www.linkedin.com/in/notekunn/)**.
