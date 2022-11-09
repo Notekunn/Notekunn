@@ -22,9 +22,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C271%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-348%20Thousand%20lines%20of%20code-blue)
 
@@ -36,51 +36,10 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    139 commits    █████░░░░░░░░░░░░░░░░░░░░   23.28% 
-🌆 Daytime    189 commits    ████████░░░░░░░░░░░░░░░░░   31.66% 
-🌃 Evening    212 commits    █████████░░░░░░░░░░░░░░░░   35.51% 
-🌙 Night      57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       99 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
-Tuesday      67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-Wednesday    64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-Thursday     112 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.76% 
-Friday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Saturday     73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
-Sunday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.1%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               11 hrs 16 mins      ███████████░░░░░░░░░░░░░░   45.91% 
-YAML                     7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.6% 
-Markdown                 3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
-JavaScript               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
-
-💻 Operating System: 
-WSL                      24 hrs 5 mins       ████████████████████████░   98.1% 
-Windows                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -94,7 +53,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022 16:53:32 UTC
+ Last Updated on 09/11/2022 16:50:37 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:random-qoutes-->
 <!--END_SECTION:random-qoutes-->
