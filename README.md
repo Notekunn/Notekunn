@@ -24,21 +24,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-348%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-350%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 702 Contributions in the Year 2022
+> 🏆 704 Contributions in the Year 2022
  > 
 > 📦 43.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
@@ -53,7 +53,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 16:50:37 UTC
+ Last Updated on 10/11/2022 16:50:08 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:random-qoutes-->
 <!--END_SECTION:random-qoutes-->
