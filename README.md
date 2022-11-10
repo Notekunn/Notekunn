@@ -17,8 +17,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#66](https://github.com/vnact/kma-news/issues/66) in [vnact/kma-news](https://github.com/vnact/kma-news)
-2. 🗣 Commented on [#66](https://github.com/kma-academy/kma-news/issues/66) in [kma-academy/kma-news](https://github.com/kma-academy/kma-news)
+1. 🗣 Commented on [#5](https://github.com/Notekunn/nest-boilerplate/issues/5) in [Notekunn/nest-boilerplate](https://github.com/Notekunn/nest-boilerplate)
+2. ❗️ Closed issue [#66](https://github.com/vnact/kma-news/issues/66) in [vnact/kma-news](https://github.com/vnact/kma-news)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
