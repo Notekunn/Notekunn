@@ -14,7 +14,7 @@
 - 🐬 Github: **[Notekunn](https://github.com/Notekunn)**.
 - 🐬 Linkedin: **[Duc Cuong Tran](https://www.linkedin.com/in/notekunn/)**.
 
-**:zap: Recent Activity:**
+<!-- **:zap: Recent Activity:** -->
 
 <!--START_SECTION:_activity-->
 <!--END_SECTION:_activity-->
