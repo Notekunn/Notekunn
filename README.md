@@ -1,18 +1,30 @@
-[![Actions Status](https://github.com/Notekunn/Notekunn/workflows/wakatime-stats/badge.svg)](https://github.com/Notekunn/Notekunn/actions)
-[![Actions Status](https://github.com/Notekunn/Notekunn/workflows/update-gh-activity/badge.svg)](https://github.com/Notekunn/Notekunn/actions)
+### Hey 👋, I'm Notekunn.
+
+<a href="https://www.linkedin.com/in/notekunn/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/notekunn/">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/ShiinDz/">
+  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<!-- <a href="https://leetcode.com/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a> -->
+<a href="mailto:cuong.nl5@gmail.com ">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=notekunn.notekunn)
+
+
 
 <!--![Notekunn](https://count.getloli.com/get/@notekunn)-->
 
 <!--![Meme](https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif)-->
 
 <!--![Personal npm card](https://i.imgur.com/mi8nZo1.png)-->
-
-**Contact:**
-
-- 🐍 Email: **[clonebmn2itt@gmail.com](mailto:clonebmn2itt@gmail.com)**.
-- 🐬 Github: **[Notekunn](https://github.com/Notekunn)**.
-- 🐬 Linkedin: **[Duc Cuong Tran](https://www.linkedin.com/in/notekunn/)**.
 
 <!-- **:zap: Recent Activity:** -->
 
