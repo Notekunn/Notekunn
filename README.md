@@ -18,9 +18,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=notekunn.notekunn)
 
+<br />
 
 - 💼 I’m working as a **Software Engineer** in **Ha Noi, Viet Nam**
 - 💻 I'm currently a student of **Academy of Cryptography Techniques**
+
+<br />
+
 
 <!--![Notekunn](https://count.getloli.com/get/@notekunn)-->
 
