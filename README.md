@@ -45,7 +45,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=notekunn&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notekunn&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**   -->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=notekunn&rank=-C,-B&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
