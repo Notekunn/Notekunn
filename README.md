@@ -20,7 +20,7 @@
 
 <br />
 
-- 💼 I’m working as a **Software Engineer** in **Ha Noi, Viet Nam**
+- 💼 I’m working as a **DevOps Engineer** in **Ha Noi, Viet Nam**
 - 💻 I'm currently a student of **Academy of Cryptography Techniques**
 
 <br />
