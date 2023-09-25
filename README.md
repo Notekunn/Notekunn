@@ -48,6 +48,6 @@
 
 <!-- **Languages and Tools:**   -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=notekunn&rank=-C,-B&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://neil-trophy.vercel.app/?username=notekunn&rank=-C,-B&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31g4gyfyqca63qs3ubl3plf7gdki)
