@@ -9,9 +9,9 @@
 <a href="https://www.facebook.com/ShiinDz/">
   <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<!-- <a href="https://leetcode.com/">
+<a href="https://leetcode.com/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a> -->
+</a>
 <a href="mailto:cuong.nl5@gmail.com ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
