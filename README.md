@@ -30,7 +30,7 @@
 
 <!--![Meme](https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif)-->
 
-<!--![Personal npm card](https://i.imgur.com/mi8nZo1.png)-->
+<!--![Personal npm card](https://i.imgur.com/mi8nZo1.png)
 
 <!-- **:zap: Recent Activity:** -->
 
@@ -48,6 +48,6 @@
 
 <!-- **Languages and Tools:**   -->
 
-[![trophy](https://neil-trophy.vercel.app/?username=notekunn&rank=-C,-B&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://neil-trophy.vercel.app/?username=notekunn&rank=-C,-B&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31g4gyfyqca63qs3ubl3plf7gdki)
+<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31g4gyfyqca63qs3ubl3plf7gdki)-->
